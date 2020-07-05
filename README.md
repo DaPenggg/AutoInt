@@ -1,2 +1,3 @@
 # Recommend
-code of recommend ctr
+code of paper:Automatic Feature Interaction Learning. 
+implement by pytorch 1.0
